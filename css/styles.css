@@ -814,8 +814,8 @@ margin: 0 auto;
 
 }
 
-.foot .container {
-    padding: 0;
+.foot .container-first {
+    margin-right: 120px;
 }
 
 .foot .logo {
