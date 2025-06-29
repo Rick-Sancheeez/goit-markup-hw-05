@@ -208,7 +208,7 @@
 
 
 .modal .form-container.textarea {
-    margin-bottom: 24px;
+    margin-bottom: 16px;
 }
 
 /*
@@ -221,6 +221,10 @@
     fill: #F4F4FD;
 }
  */
+
+.modal-overlay .modal .form-container.checkbox {
+    margin-bottom: 24px;
+}
 
 .form-label.checkbox .form-input.checkbox {
     opacity: 0;
