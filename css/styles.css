@@ -811,8 +811,6 @@ margin: 0 auto;
 
 .foot .main-container {
     display: flex;
-    gap: 120px;
-    align-items: baseline;
 
 }
 
@@ -845,6 +843,9 @@ margin: 0 auto;
     max-width: 264px;
 }
 
+.foot .social-links {
+    margin-right: 80px;
+}
 
 .foot .social-links .paragraph {
     color: #fff;
