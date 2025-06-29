@@ -814,7 +814,7 @@ margin: 0 auto;
 
 }
 
-.foot .container .container-first {
+.foot .container.main-container .container-first {
     margin-right: 120px;
 }
 
