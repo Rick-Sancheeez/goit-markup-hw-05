@@ -207,7 +207,7 @@
 
 
 
-.modal-overlay .modal .form-container.checkbox {
+.modal .form-container.textarea {
     margin-bottom: 24px;
 }
 
@@ -255,6 +255,8 @@
 
 .form-container.checkbox .form-input:checked + .form-label.form-label.checkbox .check-custom {
     background-color: #404BBF;
+    border: none;
+    fill: #F4F4FD; 
 }
 
 .form-container.checkbox .form-input:checked + .form-label.form-label.checkbox .check-custom .icon-check {
@@ -266,7 +268,7 @@
     color:#4d5ae5;
 }
 
-.modal .form-button {
+.modal .form .form-button {
     display: block;
     
     border: none;
@@ -931,7 +933,7 @@ margin: 0 auto;
    cursor: pointer;
    color: #ffffff;
    
-    max-width: 165px;
+    min-width: 165px;
     background-color: #4D5AE5;
 
     border-radius: 4px;
