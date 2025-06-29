@@ -253,11 +253,11 @@
    fill: transparent;
 }
 
-.form-container.checkbox .form-input:focus + .form-label.form-label.checkbox .check-custom {
+.form-container.checkbox .form-input:checked + .form-label.form-label.checkbox .check-custom {
     background-color: #404BBF;
 }
 
-.form-container.checkbox .form-input:focus + .form-label.form-label.checkbox .check-custom .icon-check {
+.form-container.checkbox .form-input:checked + .form-label.form-label.checkbox .check-custom .icon-check {
     fill: #F4F4FD;
 }
 
